@@ -77,5 +77,3 @@ paginate_path: "page/:num/"
 
 # 启动命令
 # bundle exec jekyll serve --watch
-# theme: jekyll-theme-midnight
-theme: jekyll-theme-hacker
