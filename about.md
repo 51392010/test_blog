@@ -24,10 +24,6 @@ title: 关于我
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/51392010/jekyll_blog/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-<p> 
-
 <p> 
 
 <p> 
